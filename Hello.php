@@ -1,3 +1,3 @@
 <?php
-echo "Hello Everyone! I've changed this file";
+echo "new Arts College";
 ?>
